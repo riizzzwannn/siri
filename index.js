@@ -5,4 +5,9 @@ function speak(){
     console.log('siri can speak');
 }
 
+function laugh(){
+    console.log('siri can laugh');
+}
+
 speak();
+laugh();
