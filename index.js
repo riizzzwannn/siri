@@ -9,5 +9,9 @@ function laugh(){
     console.log('siri can laugh');
 }
 
+function wikiPedia(){
+    console.log('search on wikipedia')
+}
+
 speak();
 laugh();
