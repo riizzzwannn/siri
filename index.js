@@ -11,6 +11,10 @@ function laugh(){
 
 function wikiPedia(){
     console.log('search on wikipedia')
+}    
+
+function setAlarms(){
+    console.log('siri can set alarms')
 }
 
 speak();
