@@ -9,5 +9,10 @@ function laugh(){
     console.log('siri can laugh');
 }
 
+
+function setAlarms(){
+    console.log('siri can set alarms')
+}
+
 speak();
 laugh();
